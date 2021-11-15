@@ -2,6 +2,8 @@
 
 The starting point for this program was everything but an essentialy void helpers.c file. See my contributions there.
 
+**Note** You may only use uncompressed, 24bit BMP images. Use this converter to change other images.
+
 *This project for CS50 is meant to be compiled with clang.*
 
 To compile:
@@ -24,18 +26,6 @@ To run the reflection filter on your image, run:
 ./filter -r ./images/courtyard.bmp ./images/reflected-courtyard.bmp
 ```
 
-### Blur
-
-Pre-process            |  Post-process
-:-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/blurred-courtyard.bmp)
-
-To run the blur filter on your image, run:
-
-```bash
-./filter -b ./images/courtyard.bmp ./images/blurred-courtyard.bmp
-```
-
 ### Greyscale
 
 Pre-process            |  Post-process
@@ -48,13 +38,26 @@ To run the greyscale filter on your image, run:
 ./filter -g ./images/courtyard.bmp ./images/greyscale-courtyard.bmp
 ```
 
-### Edges
+
+### Blur
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/edged-courtyard.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/blurred-courtyard.bmp)
 
+To run the blur filter on your image, run:
 
+```bash
+./filter -b ./images/courtyard.bmp ./images/blurred-courtyard.bmp
+```
+
+### Edges
+
+Implemented using a Sobel operator, similar algorithms are used for many basic computer vision edge detection.
+
+Pre-process            |  Post-process
+:-------------------------:|:-------------------------:
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/barb.bmp) | ![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/barb-edged.bmp)
 
 
 To run the edges filter on your image, run:
