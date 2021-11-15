@@ -14,8 +14,9 @@ make filter
 
 ### Reflection
 
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp)
-![Image of reflected courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/reflected-courtyard.bmp)
+Pre-process            |  Post-process
+:-------------------------:|:-------------------------:
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of reflected courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/reflected-courtyard.bmp)
 
 To run the reflection filter on your image, run:
 
@@ -25,8 +26,9 @@ To run the reflection filter on your image, run:
 
 ### Blur
 
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp)
-![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/blurred-courtyard.bmp)
+Pre-process            |  Post-process
+:-------------------------:|:-------------------------:
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/blurred-courtyard.bmp)
 
 To run the blur filter on your image, run:
 
@@ -36,8 +38,9 @@ To run the blur filter on your image, run:
 
 ### Greyscale
 
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp)
-![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/greyscale-courtyard.bmp)
+Pre-process            |  Post-process
+:-------------------------:|:-------------------------:
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/greyscale-courtyard.bmp)
 
 To run the greyscale filter on your image, run:
 
@@ -47,8 +50,12 @@ To run the greyscale filter on your image, run:
 
 ### Edges
 
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp)
-![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/edged-courtyard.bmp)
+Pre-process            |  Post-process
+:-------------------------:|:-------------------------:
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/edged-courtyard.bmp)
+
+
+
 
 To run the edges filter on your image, run:
 
