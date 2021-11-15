@@ -1,10 +1,10 @@
 # Image Filter Program
 
-The starting point for this program was everything but an essentially void helpers.c file. See my contributions there.
+This program does various image filtering in C and was done along wih my self-study of CS50X. The starting point for this program was everything but an essentially void helpers.c file. See my contributions there.
 
 **Note** You may only use uncompressed, 24bit BMP images. Use this converter to change other images.
 
-*This project for CS50 is meant to be compiled with clang.*
+*This program is meant to be compiled with clang.*
 
 To compile:
 
@@ -23,7 +23,7 @@ Pre-process            |  Post-process
 To run the reflection filter on your image, run:
 
 ```bash
-./filter -r ./images/courtyard.bmp ./images/reflected-courtyard.bmp
+$ ./filter -r ./images/courtyard.bmp ./images/reflected-courtyard.bmp # Output location
 ```
 
 ### Greyscale
@@ -35,7 +35,7 @@ Pre-process            |  Post-process
 To run the greyscale filter on your image, run:
 
 ```bash
-./filter -g ./images/courtyard.bmp ./images/greyscale-courtyard.bmp
+$ ./filter -g ./images/courtyard.bmp ./images/greyscale-courtyard.bmp # Output location
 ```
 
 
@@ -48,7 +48,7 @@ Pre-process            |  Post-process
 To run the blur filter on your image, run:
 
 ```bash
-./filter -b ./images/courtyard.bmp ./images/blurred-courtyard.bmp
+$ ./filter -b ./images/courtyard.bmp ./images/blurred-courtyard.bmp # Output location
 ```
 
 ### Edges
@@ -63,5 +63,5 @@ Pre-process            |  Post-process
 To run the edges filter on your image, run:
 
 ```bash
-./filter -r ./images/courtyard.bmp ./images/edged-courtyard.bmp
+$ ./filter -r ./images/courtyard.bmp ./images/edged-courtyard.bmp # Output location
 ```
