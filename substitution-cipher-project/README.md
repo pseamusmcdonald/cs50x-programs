@@ -4,6 +4,12 @@ This program implements an alphabetic substitution cipher and was done along wit
 
 *This program for CS50 is meant to be compiled with clang.*
 
+To compile: 
+
+```bash
+$ make substitution
+```
+
 ### How to use
 
 ```bash

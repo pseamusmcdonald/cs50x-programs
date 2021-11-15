@@ -9,7 +9,7 @@ This program does various image filtering in C and was done along wih my self-st
 To compile:
 
 ```bash
-make filter
+$ make filter
 ```
 
 ## Included Filters
