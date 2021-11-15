@@ -2,15 +2,15 @@
 
 This program does various image filtering in C and was done along wih my self-study of CS50X. The starting point for this program was everything but an essentially void helpers.c file. See my contributions there.
 
-**Note** You may only use uncompressed, 24bit BMP images. Use this converter to change other images.
-
-*This program is meant to be compiled with clang.*
+**Note** You may only use uncompressed, 24bit BMP images! Use [this converter](https://online-converting.com/image/convert2bmp/) to utilize other image files.
 
 To compile:
 
 ```bash
 $ make filter
 ```
+
+*This program is meant to be compiled with clang.*
 
 ## Included Filters
 

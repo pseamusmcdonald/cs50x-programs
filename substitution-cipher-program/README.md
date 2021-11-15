@@ -2,13 +2,12 @@
 
 This program implements an alphabetic substitution cipher and was done along with my self-study of CS50X.
 
-*This program for CS50 is meant to be compiled with clang.*
-
 To compile: 
 
 ```bash
 $ make substitution
 ```
+*This program is meant to be compiled with clang.*
 
 ### How to use
 
