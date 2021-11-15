@@ -1,6 +1,6 @@
-# Image Filter Project
+# Image Filter Program
 
-The starting point for this program was everything but an essentialy void helpers.c file. See my contributions there.
+The starting point for this program was everything but an essentially void helpers.c file. See my contributions there.
 
 **Note** You may only use uncompressed, 24bit BMP images. Use this converter to change other images.
 
