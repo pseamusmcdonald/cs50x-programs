@@ -2,7 +2,7 @@
 
 The starting point for this program was everything but an essentialy void helpers.c file. See my contributions there.
 
-*italic* This project for CS50 is meant to be compiled with clang.
+*This project for CS50 is meant to be compiled with clang.*
 
 To compile:
 
