@@ -30,7 +30,7 @@ $ ./filter -r ./images/courtyard.bmp ./images/reflected-courtyard.bmp # Output l
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/courtyard.bmp) | ![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/greyscale-courtyard.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/courtyard.bmp) | ![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/greyscale-courtyard.bmp)
 
 To run the greyscale filter on your image, run:
 
