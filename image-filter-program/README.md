@@ -18,7 +18,7 @@ $ make filter
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of reflected courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/reflected-courtyard.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/courtyard.bmp) | ![Image of reflected courtyard, post-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/reflected-courtyard.bmp)
 
 To run the reflection filter on your image, run:
 
@@ -30,7 +30,7 @@ $ ./filter -r ./images/courtyard.bmp ./images/reflected-courtyard.bmp # Output l
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/greyscale-courtyard.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/courtyard.bmp) | ![Image of greyscale courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/greyscale-courtyard.bmp)
 
 To run the greyscale filter on your image, run:
 
@@ -43,7 +43,7 @@ $ ./filter -g ./images/courtyard.bmp ./images/greyscale-courtyard.bmp # Output l
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/courtyard.bmp) | ![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/blurred-courtyard.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/courtyard.bmp) | ![Image of blurred courtyard, post-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/blurred-courtyard.bmp)
 
 To run the blur filter on your image, run:
 
@@ -57,7 +57,7 @@ Implemented using a Sobel operator, similar algorithms are used for many basic c
 
 Pre-process            |  Post-process
 :-------------------------:|:-------------------------:
-![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/barb.bmp) | ![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/cs50-programs/blob/main/projectMedia/barb-edged.bmp)
+![Image of courtyard, pre-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/barb.bmp) | ![Image of edge extracted courtyard, post-processed.](https://github.com/pseamusmcdonald/project-media/blob/main/barb-edged.bmp)
 
 
 To run the edges filter on your image, run:
